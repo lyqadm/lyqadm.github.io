@@ -1,4 +1,4 @@
-baseURL = "https://LYQADM.github.io/"
+baseURL = "https://lyqadm.github.io/"
 languageCode = "zh-cn"
 title = "我的博客"
 theme = "PaperMod"
